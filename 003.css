@@ -1,9 +1,18 @@
 /* Desafio 03 */
 .meses {
     font-family: 'Roboto', sans-serif;
-    width: 300px;
+    width: 400px;
     margin: 1rem;
     padding: 1rem;
-    background: #ececec;
-    box-shadow: 2px 2px 5px #222;
+    background: #96dd90;
+    box-shadow: 5px 3px 5px rgb(2, 46, 15);
+}
+/* segundo ex */
+.dis {
+    font-family: 'Roboto', sans-serif;
+    width: 400px;
+    margin: 1rem;
+    padding: 1rem;
+    background: #96dd90;
+    box-shadow: 5px 3px 5px rgb(2, 46, 15);
 }
