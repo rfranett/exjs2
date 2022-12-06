@@ -1,0 +1,9 @@
+/* Desafio 03 */
+.meses {
+    font-family: 'Roboto', sans-serif;
+    width: 300px;
+    margin: 1rem;
+    padding: 1rem;
+    background: #ececec;
+    box-shadow: 2px 2px 5px #222;
+}
